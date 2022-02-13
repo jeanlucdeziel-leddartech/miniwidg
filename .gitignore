@@ -1,0 +1,4 @@
+*.pyc
+miniwidg.egg-info/
+dist/
+build/
